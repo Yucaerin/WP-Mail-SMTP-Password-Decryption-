@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../../wp-load.php';
+require_once __DIR__ . '/../../../../wp-load.php';
 
 use WPMailSMTP\Helpers\Crypto;
 
